@@ -1,0 +1,6 @@
+dist/
+*.exe
+*.bin
+*.tmp
+loot/
+*.log
